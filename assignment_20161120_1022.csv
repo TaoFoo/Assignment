@@ -1,0 +1,13 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,GitHub ID,Integration,Owned By,Owned By
+134648141,Add Payment,payment,1,"Nov 14, 2016","Nov 20, 2016",feature,0,started,"Nov 19, 2016",,,TaoFoo,,https://www.pivotaltracker.com/story/show/134648141,,,TaoFoo,
+134650451,Add Item,item,1,"Nov 14, 2016","Nov 20, 2016",feature,3,started,"Nov 20, 2016",,,KHAI YIK CHONG,,https://www.pivotaltracker.com/story/show/134650451,,,KHAI YIK CHONG,TaoFoo
+134650419,Add Order,order,1,"Nov 14, 2016","Nov 20, 2016",feature,1,started,"Nov 20, 2016",,,Yu,,https://www.pivotaltracker.com/story/show/134650419,,,Yu,TaoFoo
+134648163,Cancel Payment Record,payment,1,"Nov 14, 2016","Nov 20, 2016",feature,,unstarted,"Nov 19, 2016",,,TaoFoo,,https://www.pivotaltracker.com/story/show/134648163,,,TaoFoo,
+134648157,Update Payment Record,payment,1,"Nov 14, 2016","Nov 20, 2016",feature,,unstarted,"Nov 19, 2016",,,TaoFoo,,https://www.pivotaltracker.com/story/show/134648157,,,,
+134648147,View Payment Record,payment,1,"Nov 14, 2016","Nov 20, 2016",feature,,unstarted,"Nov 19, 2016",,,TaoFoo,,https://www.pivotaltracker.com/story/show/134648147,,,TaoFoo,
+134650447,Update Item,item,1,"Nov 14, 2016","Nov 20, 2016",feature,,unstarted,"Nov 20, 2016",,,KHAI YIK CHONG,,https://www.pivotaltracker.com/story/show/134650447,,,KHAI YIK CHONG,
+134650445,View Item,item,1,"Nov 14, 2016","Nov 20, 2016",feature,,unstarted,"Nov 20, 2016",,,KHAI YIK CHONG,,https://www.pivotaltracker.com/story/show/134650445,,,KHAI YIK CHONG,
+134650443,Delete Item,item,1,"Nov 14, 2016","Nov 20, 2016",feature,,unstarted,"Nov 20, 2016",,,KHAI YIK CHONG,,https://www.pivotaltracker.com/story/show/134650443,,,KHAI YIK CHONG,
+134650433,Cancel Order,order,1,"Nov 14, 2016","Nov 20, 2016",feature,,unstarted,"Nov 20, 2016",,,Yu,,https://www.pivotaltracker.com/story/show/134650433,,,Yu,
+134650431,View Order,order,1,"Nov 14, 2016","Nov 20, 2016",feature,,unstarted,"Nov 20, 2016",,,Yu,,https://www.pivotaltracker.com/story/show/134650431,,,Yu,
+134650425,Update Order,order,1,"Nov 14, 2016","Nov 20, 2016",feature,,unstarted,"Nov 20, 2016",,,Yu,,https://www.pivotaltracker.com/story/show/134650425,,,Yu,
